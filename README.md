@@ -6,6 +6,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 You can see the demo here  [demo](https://studying-react.vercel.app/)
 
 
+
+## Description 
+
+A complete CRUD done with react 16v + redux + redux forme and react bootstrap
+
+
 ## Available Scripts
 
 In the project directory, you can run:
